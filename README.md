@@ -1,5 +1,5 @@
 # About Me:
-I’m a recent Software Engineering graduate with hands-on experience across software development, IT support, and basic network administration. I’m actively building my career in ICT, with a strong interest in structured graduate programmes where I can grow, contribute, and learn at scale.<br>I have a solid foundation in programming, cybersecurity concepts, and modern development practices, backed by academic projects and real-world, on-site IT support work. I enjoy problem-solving, learning fast, and working with others to turn ideas into practical solutions.
+Tech enthusiast with hands-on experience across software development, IT support, and basic network administration. I’m actively building my career in ICT, with a strong interest in structured graduate programmes where I can grow, contribute, and learn at scale.<br>I have a solid foundation in programming, cybersecurity concepts, and modern development practices, backed by academic projects and real-world, on-site IT support work. I enjoy problem-solving, learning fast, and working with others to turn ideas into practical solutions.
 
 
 # 💻 Tech Stack:

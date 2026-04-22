@@ -1,5 +1,8 @@
 # About Me:
-Tech enthusiast with hands-on experience across software development, IT support, and basic network administration. I’m actively building my career in Software Development, with a strong interest in structured programmes where I can grow, contribute, and learn at scale.<br>I have a solid foundation in programming, cybersecurity concepts, and modern development practices, backed by academic projects and real-world, on-site IT support work. I enjoy problem-solving, learning fast, and working with others to turn ideas into practical solutions.
+A software developer focused on building practical mobile and web applications. I primarily use Flutter for mobile development and Django for building scalable web applications, alongside experience in Java, C#, and core web technologies.
+I’ve worked on projects such as a cybersecurity awareness app designed for young users, where I focused on creating interactive and user-friendly learning experiences. I’ve also explored building real-time systems, including a chat application with networking features, as well as web solutions with Firebase integration.
+Currently, I’m strengthening my backend development skills with Java and Spring Boot, while continuing to build and refine real-world applications.
+I’m open to opportunities where I can contribute to meaningful projects, grow as a developer, and collaborate with a strong team
 
 
 # Tech Stack:
